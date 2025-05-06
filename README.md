@@ -13,7 +13,7 @@ The aim of this project is to:
 * Forecast future demand using a custom-built statistical algorithm.
 * Optimize resource allocation and transportation between multiple supply and demand points.
   
-## 🔧 Technologies Used
+##  Technologies Used
 
 Python 3.6+ – Core programming language
 PuLP – Linear programming solver used for optimization
