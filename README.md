@@ -108,7 +108,7 @@ class TransportationModel:
         }
 ```
 
-## ▶️ How to Run
+## How to Run
 
 Step 1: Install the required libraries:
 
